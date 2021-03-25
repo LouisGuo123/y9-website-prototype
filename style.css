@@ -1,0 +1,51 @@
+/* Tags */
+body {
+    font: 15px Arial, sans-serif;
+}
+
+div p {
+    text-indent: 7%;
+}
+
+/* IDs */
+#content {
+    margin: auto;
+    width: 65%;
+    font-size: 20px;
+    background-color: #C0C0C0;
+}
+
+#content2 {
+    display: none;
+}
+
+/* Classes */
+.nav {
+    display: inline;
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+    padding:0.5em;
+    box-sizing: border-box;
+    width: 50%;
+    background-color:#A0A0A0;
+    color: white;
+    float: left;
+}
+
+.activated {
+    background-color: #C0C0C0;
+    color: black;
+}
+
+.inner-content {
+    display: inline-block;
+    padding: 30px 5%;
+}
+
+.img-placeholder{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #606060;
+}
